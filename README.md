@@ -17,8 +17,8 @@ QuarkZ is an Android application designed to [brief description of your app's pu
 - **Frameworks**: Jetpack Compose, AndroidX
 - **Build Tool**: Gradle
 - **Other Tools**: Navigation, Lifecycle, Material3
+- 
 ![Screenshot_20241221-220626](https://github.com/user-attachments/assets/df789f74-0ec6-445c-a1d0-26d27359e65a)
 
-- https://photos.google.com/photo/AF1QipPk1IZjrfYlp_xIeRkaElHYJDobjpYYVvjHmLGV
-https://photos.google.com/photo/AF1QipPU3vrlThn0jKowP6LezJAl-21TgS_yWaj9oqcB
-- 
+
+![Screenshot_20241221-220634](https://github.com/user-attachments/assets/8eb4ca60-b993-4f42-99c0-d8bfe7a9acf2)
