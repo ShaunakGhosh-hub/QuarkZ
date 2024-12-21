@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">QuarkZ</string>
+    <string name="shirts">Shirts</string>
+    <string name="t_shirts">T-Shirts</string>
+    <string name="pants">Pants</string>
+    <string name="hoodies">Hoodies</string>
+    <string name="sweaters">Sweaters</string>
+    <string name="jackets">Jackets</string>
+    <string name="socks">Socks</string>
+    <string name="belts">Belts</string>
+    <string name="hats">Hats</string>
+    <string name="scarves">Scarves</string>
+
+    <string name="SnitchShirt">SnitchShirt</string>
+    <string name="SnitchTShirt">SnitchT-Shirt</string>
+    <string name="SnitchPants">SnitchPants</string>
+
+    <string name="AdidasShirt">AdidasShirt</string>
+    <string name="AdidasTShirt">AdidasT-Shirt</string>
+    <string name="AdidasPants">AdidasPants</string>
+
+    <string name="PumaShirt">PumaShirt</string>
+    <string name="PumaTShirt">PumaT-Shirt</string>
+    <string name="PumaPants">PumaPants</string>
+
+    <string name="GucciShirt">GucciShirt</string>
+    <string name="GucciTShirt">GucciT-Shirt</string>
+    <string name="GucciPants">GucciPants</string>
+
+    <string name="NikeShirt">NikeShirt</string>
+    <string name="NikeTShirt">NikeT-Shirt</string>
+    <string name="NikePants">NikePants</string>
+
+</resources>
