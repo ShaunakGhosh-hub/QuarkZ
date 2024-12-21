@@ -1,12 +1,11 @@
 # QuarkZ
 
-QuarkZ is an Android application designed to [brief description of your app's purpose]. Built using the latest Android technologies and Jetpack Compose, it offers a seamless user experience.
+QuarkZ is an Android application where you can see the clothes you want to buy . Built using the latest Android technologies and Jetpack Compose, it offers a seamless user experience.
 
 ---
 
 ## Features
 - **Modern Design**: A sleek and intuitive user interface.
-- **Dynamic Functionality**: [List any standout features or tools].
 - **Navigation**: Integrated smooth navigation between app screens.
 - **Compatibility**: Supports Android 7.0 (API level 24) and above.
 
