@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192014456663",
+    "project_id": "quarkz-flash-app",
+    "storage_bucket": "quarkz-flash-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192014456663:android:4750fc359e0865055f9012",
+        "android_client_info": {
+          "package_name": "com.example.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuO90v-wlwqC2mqqkKourmSElx9UUhN7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
